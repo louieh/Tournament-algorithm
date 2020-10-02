@@ -5,7 +5,7 @@ lxh180006.zip
 *.png
 PetersonLock
 *.pdf
-*.md
 Tournament/out
 Tournament/*iml
 Tournament/*out
+6301*.md
