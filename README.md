@@ -1,6 +1,6 @@
 # Tournament algorithm
 
-N thread mutual exclusion algorithm based on perterson algorithm.
+N thread mutual exclusion algorithm based on Peterson algorithm.
 
 #### References
 
